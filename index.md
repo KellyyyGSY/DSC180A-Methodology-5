@@ -3,7 +3,7 @@
 **Name:** Kelly Gong  
 **Email:** sgong@ucsd.edu  
 
-**Section:** DSC 180A B08
+**Section:** DSC 180A B08  
 **Mentor:** Hungjen Wang and Rinne Han  
 
 ## Quarter 2 Project Proposal Brainstorm
